@@ -1,0 +1,43 @@
+### Savory Junction Menu
+
+#### Appetizers
+1. **Garlic Parmesan Fries** - $6.99
+   - Crispy fries tossed in garlic and Parmesan cheese.
+
+2. **Stuffed Mushrooms** - $8.49
+   - Mushrooms filled with a savory blend of cheeses and herbs.
+
+3. **Bruschetta** - $7.99
+   - Toasted baguette slices topped with fresh tomatoes, basil, and a balsamic glaze.
+
+#### Salads
+1. **Caesar Salad** - $9.99
+   - Crisp romaine lettuce, croutons, Parmesan cheese, and Caesar dressing.
+
+2. **Greek Salad** - $10.99
+   - Mixed greens, feta cheese, olives, cucumbers, and a tangy Greek dressing.
+
+#### Entrees
+1. **Grilled Chicken Alfredo** - $15.99
+   - Grilled chicken breast served over fettuccine pasta with creamy Alfredo sauce.
+
+2. **Beef Tenderloin** - $24.99
+   - Juicy beef tenderloin cooked to perfection, served with garlic mashed potatoes and steamed vegetables.
+
+3. **Vegetable Stir-Fry** - $13.99
+   - A mix of fresh vegetables stir-fried with a savory sauce, served over jasmine rice.
+
+#### Desserts
+1. **Chocolate Lava Cake** - $7.49
+   - Warm chocolate cake with a gooey molten center, served with vanilla ice cream.
+
+2. **New York Cheesecake** - $6.99
+   - Classic cheesecake with a graham cracker crust, topped with a berry compote.
+
+#### Beverages
+1. **Soft Drinks** - $2.49
+2. **Iced Tea** - $2.99
+3. **Coffee** - $2.49
+4. **Fresh Lemonade** - $3.49
+
+Enjoy your meal at Savory Junction!
